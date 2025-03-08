@@ -1,6 +1,8 @@
 PROJECT_NAME : MINI - SOCIAL-MEDIA
 
-SHORT DESCRIPTION : This Project is made by using React library which inlcudes different Hooks like useState,Context API ,useEffect.Bootstrap and React-Icon for efficiency and ease.
+SHORT DESCRIPTION : This Project is made by using React library which includes different Hooks like useState,Context API ,useEffect,useReducer.
+React Router for layout routes and links and navigation.
+Bootstrap and React-Icon used for efficiency and ease.
 
 FEATURES : Create,Read,Delete functionality.
            Responsive and minimal UI.
