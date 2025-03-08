@@ -4,7 +4,7 @@ SHORT DESCRIPTION : This Project is made by using React library which includes d
 React Router for layout routes and links and navigation.
 Bootstrap and React-Icon used for efficiency and ease.
 
-FEATURES : Create,Read,Delete functionality.
+FEATURES : Create,Read,Delete functionality.<br>
            Responsive and minimal UI.
            
            
