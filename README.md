@@ -1,4 +1,12 @@
-# React + Vite
+PROJECT_NAME : mINI - SOCIAL-MEDIA
+
+SHORT DESCRIPTION : This Project is made by using React library which inlcudes different Hooks like useState,Context API ,useEffect.Bootstrap and React-Icon for efficiency and ease.
+
+FEATURES : Create,Read,Delete functionality.
+           Responsive and minimal UI.
+           
+           
+           
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
